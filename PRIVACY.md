@@ -9,7 +9,12 @@ Dyausa ("the app") is a night-sky visualization app. Your privacy is simple: **t
 - **Motion** — used on your device to orient the sky as you move your phone.
 
 ## What leaves your device
-- **City-name lookups only.** To turn your coordinates into a city name, the app asks Apple's geocoding service; that request goes to Apple under Apple's privacy policy. Nothing else leaves your device.
+The app uses only Apple's own system services — we run no server of our own.
+
+- **Turning your coordinates into a city name** uses Apple's built-in geocoding (Apple's `CLGeocoder` API). That lookup is handled by Apple, under Apple's privacy policy — your coordinates go from your device to Apple, **never to us**. When you're offline, an on-device table is used instead and nothing leaves your device at all.
+- Nothing else leaves your device.
+
+**None of this information is ever relayed to us.** We have no servers, no accounts, and no analytics — as the developer, we never receive your location, your city, or anything about how you use the app.
 
 ## What we do NOT do
 - No account or login.
