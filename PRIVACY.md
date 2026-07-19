@@ -23,4 +23,4 @@ Your local settings (including your last location) live only on your device and 
 The app is rated 4+ and collects no personal data.
 
 ## Contact
-Questions? Email **aditgoel94@gmail.com** or open a discussion at https://github.com/ag-inventor/dyausa-support/discussions.
+Questions about privacy? Open a discussion at https://github.com/ag-inventor/dyausa-support/discussions

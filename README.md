@@ -5,7 +5,7 @@ Dyausa turns your iPhone into a window on the real night sky — with the Vedic 
 This is the **support & feedback** home for the app.
 
 ## 📮 Get help
-Email **aditgoel94@gmail.com** — or start a [Discussion](../../discussions).
+Questions? **[Start a Discussion](../../discussions)** — I read every one.
 
 ## 💡 Suggest a feature / share an idea
 Have an idea, a star name to add, or something you'd love to see?
