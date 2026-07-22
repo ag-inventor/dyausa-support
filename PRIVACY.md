@@ -22,7 +22,7 @@ The app uses only Apple's own system services — we run no server of our own.
 - No server of ours receives your location, usage, or any personal data.
 
 ## Data retention & deletion
-Your local settings (including your last location) live only on your device and are removed when you delete the app.
+Your local settings (including your last location) live only on your device and are removed when you delete the app. You can revoke location access at any time in iOS Settings�→ Privacy & Security ₒ Location Services → Dyausa.
 
 ## Children
 The app is rated 4+ and collects no personal data.
