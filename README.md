@@ -4,15 +4,23 @@ Dyausa turns your iPhone into a window on the real night sky — with the Vedic 
 
 This is the **support & feedback** home for the app.
 
+## 📧 Contact
+
+**dyausasupport@gmail.com** — no account needed, and the fastest way to reach me.
+
+The same address is in the app, under **Customize → About & Credits → Support**.
+
 ## 📮 Get help
-Questions? **[Start a Discussion](../../discussions)** — I read every one.
+Questions? Email **dyausasupport@gmail.com**, or **[start a Discussion](../../discussions)** if you have a GitHub account — I read every one.
 
 ## 💡 Suggest a feature / share an idea
 Have an idea, a star name to add, or something you'd love to see?
-**[Open a Discussion](../../discussions)** — I read every one.
+Email **dyausasupport@gmail.com** or **[open a Discussion](../../discussions)** — I read every one.
 
 ## 🐞 Report a bug
-[Open an issue](../../issues/new) with your device, iOS version, and what happened.
+Email **dyausasupport@gmail.com** with your device, iOS version, and what happened — or [open an issue](../../issues/new) if you'd rather.
+
+Sky-data corrections are especially welcome. Dyausa is drawn over a real ephemeris, so an error in it is a bug, not a matter of taste.
 
 ## Privacy
 Location and motion are used **on your device** to draw the sky. Nothing goes to a server; city lookups go only to Apple. No account, no analytics, no ads, no tracking. Full policy: [PRIVACY.md](PRIVACY.md).
